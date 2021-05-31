@@ -3,3 +3,9 @@
 
 # Linguist
 test/* linguist-vendored
+*.in linguist-vendored
+*.out linguist-vendored
+*.ul linguist-vendored
+*.iz linguist-vendored
+*.a linguist-vendored
+*.b linguist-vendored
